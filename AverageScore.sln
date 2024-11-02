@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageScore", "AverageScore\AverageScore.csproj", "{CD0D2B70-62C3-4E7A-8827-682AFC273CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audiobooks", "Audiobooks\Audiobooks.csproj", "{91D37E52-C311-4160-ABD1-C5FAB6262BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0D2B70-62C3-4E7A-8827-682AFC273CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0D2B70-62C3-4E7A-8827-682AFC273CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0D2B70-62C3-4E7A-8827-682AFC273CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0D2B70-62C3-4E7A-8827-682AFC273CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D37E52-C311-4160-ABD1-C5FAB6262BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D37E52-C311-4160-ABD1-C5FAB6262BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D37E52-C311-4160-ABD1-C5FAB6262BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D37E52-C311-4160-ABD1-C5FAB6262BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66179BAA-06F3-498F-8887-C55C8972BA44}
+	EndGlobalSection
+EndGlobal
